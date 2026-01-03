@@ -1,7 +1,3 @@
-body{
-    background-color: #C3C3E6;
-}
-
-h1{
-    color:saddlebrown
+body {
+  background:#fff url("tree.avif") no-repeat fixed center;
 }
