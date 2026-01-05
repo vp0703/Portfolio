@@ -10,5 +10,6 @@ const Student = {
     isPass : "True"
 };
 
+console.log(Student);
 
 
