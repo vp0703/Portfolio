@@ -11,5 +11,3 @@ const Student = {
 };
 
 console.log(Student);
-
-
