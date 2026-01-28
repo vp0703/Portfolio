@@ -1,0 +1,55 @@
+/* h1{
+    color: blue;
+    font-style: italic;
+    background-color: lightgray;
+}
+
+.text-section{
+    color:brown;
+    font-size: 18px;
+    text-align: center;
+}
+
+.box-section{
+    width: 150px;
+    padding: 10px;
+    margin: 20px;
+    border: 9px brown solid;
+    border-radius: 10px;
+} */
+
+.flex-section{
+    display: flex;
+    background-color: lightslategrey;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+/* .grid-section{
+    display: grid;
+    color: maroon;
+    grid-template-columns: auto auto auto;
+    gap:20px;
+    background-color: dodgerblue;
+    padding: 20px;
+}
+
+.grid-container{
+    background-color: lightgray;
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.effect-section{
+    box-shadow: 5px 10px 18px gray;
+    transition: transform 0.3s;
+} */
+
+div.grid-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightpink;
+}
